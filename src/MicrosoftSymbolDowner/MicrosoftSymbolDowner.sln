@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicrosoftSymbolDowner", "MicrosoftSymbolDowner\MicrosoftSymbolDowner.csproj", "{2B58A966-61E2-4D60-B9B1-9BC00FBF42FC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tlsnn.NetCore", "tlsnn.NetCore\tlsnn.NetCore.csproj", "{DB9883B7-16AD-4B89-BD6D-59135CBD1125}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B58A966-61E2-4D60-B9B1-9BC00FBF42FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B58A966-61E2-4D60-B9B1-9BC00FBF42FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B58A966-61E2-4D60-B9B1-9BC00FBF42FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B58A966-61E2-4D60-B9B1-9BC00FBF42FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB9883B7-16AD-4B89-BD6D-59135CBD1125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB9883B7-16AD-4B89-BD6D-59135CBD1125}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB9883B7-16AD-4B89-BD6D-59135CBD1125}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB9883B7-16AD-4B89-BD6D-59135CBD1125}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5A87212-92DF-4A7E-AEFB-ECDB2A0A968C}
+	EndGlobalSection
+EndGlobal

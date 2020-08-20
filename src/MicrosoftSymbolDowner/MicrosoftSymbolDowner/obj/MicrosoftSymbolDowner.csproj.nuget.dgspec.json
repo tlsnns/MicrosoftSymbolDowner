@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\工作\\2020\\学习\\MicrosoftSymbolDowner\\src\\MicrosoftSymbolDowner\\MicrosoftSymbolDowner\\MicrosoftSymbolDowner.csproj": {}
+  },
+  "projects": {
+    "E:\\工作\\2020\\学习\\MicrosoftSymbolDowner\\src\\MicrosoftSymbolDowner\\MicrosoftSymbolDowner\\MicrosoftSymbolDowner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\工作\\2020\\学习\\MicrosoftSymbolDowner\\src\\MicrosoftSymbolDowner\\MicrosoftSymbolDowner\\MicrosoftSymbolDowner.csproj",
+        "projectName": "MicrosoftSymbolDowner",
+        "projectPath": "E:\\工作\\2020\\学习\\MicrosoftSymbolDowner\\src\\MicrosoftSymbolDowner\\MicrosoftSymbolDowner\\MicrosoftSymbolDowner.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "E:\\工作\\2020\\学习\\MicrosoftSymbolDowner\\src\\MicrosoftSymbolDowner\\MicrosoftSymbolDowner\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\工作\\2020\\学习\\MicrosoftSymbolDowner\\src\\MicrosoftSymbolDowner\\tlsnn.NetCore\\tlsnn.NetCore.csproj": {
+                "projectPath": "E:\\工作\\2020\\学习\\MicrosoftSymbolDowner\\src\\MicrosoftSymbolDowner\\tlsnn.NetCore\\tlsnn.NetCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "HttpToSocks5Proxy": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\工作\\2020\\学习\\MicrosoftSymbolDowner\\src\\MicrosoftSymbolDowner\\tlsnn.NetCore\\tlsnn.NetCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\工作\\2020\\学习\\MicrosoftSymbolDowner\\src\\MicrosoftSymbolDowner\\tlsnn.NetCore\\tlsnn.NetCore.csproj",
+        "projectName": "tlsnn.NetCore",
+        "projectPath": "E:\\工作\\2020\\学习\\MicrosoftSymbolDowner\\src\\MicrosoftSymbolDowner\\tlsnn.NetCore\\tlsnn.NetCore.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "E:\\工作\\2020\\学习\\MicrosoftSymbolDowner\\src\\MicrosoftSymbolDowner\\tlsnn.NetCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

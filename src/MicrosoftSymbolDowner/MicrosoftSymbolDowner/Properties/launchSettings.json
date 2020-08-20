@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MicrosoftSymbolDowner": {
+      "commandName": "Project",
+      "commandLineArgs": "--h"
+    }
+  }
+}

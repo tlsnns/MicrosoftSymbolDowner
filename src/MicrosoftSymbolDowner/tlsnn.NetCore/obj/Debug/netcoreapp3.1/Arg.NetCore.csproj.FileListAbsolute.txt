@@ -1,0 +1,8 @@
+C:\Users\admin\Desktop\MicrosoftSymbolDowner\Arg.NetCore\bin\Debug\netcoreapp3.1\Arg.NetCore.deps.json
+C:\Users\admin\Desktop\MicrosoftSymbolDowner\Arg.NetCore\bin\Debug\netcoreapp3.1\Arg.NetCore.dll
+C:\Users\admin\Desktop\MicrosoftSymbolDowner\Arg.NetCore\bin\Debug\netcoreapp3.1\Arg.NetCore.pdb
+C:\Users\admin\Desktop\MicrosoftSymbolDowner\Arg.NetCore\obj\Debug\netcoreapp3.1\Arg.NetCore.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\MicrosoftSymbolDowner\Arg.NetCore\obj\Debug\netcoreapp3.1\Arg.NetCore.AssemblyInfo.cs
+C:\Users\admin\Desktop\MicrosoftSymbolDowner\Arg.NetCore\obj\Debug\netcoreapp3.1\Arg.NetCore.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\MicrosoftSymbolDowner\Arg.NetCore\obj\Debug\netcoreapp3.1\Arg.NetCore.dll
+C:\Users\admin\Desktop\MicrosoftSymbolDowner\Arg.NetCore\obj\Debug\netcoreapp3.1\Arg.NetCore.pdb
