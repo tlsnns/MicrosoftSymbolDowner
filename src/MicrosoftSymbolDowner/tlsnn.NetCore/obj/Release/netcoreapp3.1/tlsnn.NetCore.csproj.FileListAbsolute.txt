@@ -1,0 +1,17 @@
+E:\工作\2020\学习\MicrosoftSymbolDowner\src\MicrosoftSymbolDowner\tlsnn.NetCore\bin\Release\netcoreapp3.1\tlsnn.NetCore.deps.json
+E:\工作\2020\学习\MicrosoftSymbolDowner\src\MicrosoftSymbolDowner\tlsnn.NetCore\bin\Release\netcoreapp3.1\tlsnn.NetCore.dll
+E:\工作\2020\学习\MicrosoftSymbolDowner\src\MicrosoftSymbolDowner\tlsnn.NetCore\bin\Release\netcoreapp3.1\tlsnn.NetCore.pdb
+E:\工作\2020\学习\MicrosoftSymbolDowner\src\MicrosoftSymbolDowner\tlsnn.NetCore\obj\Release\netcoreapp3.1\tlsnn.NetCore.AssemblyInfoInputs.cache
+E:\工作\2020\学习\MicrosoftSymbolDowner\src\MicrosoftSymbolDowner\tlsnn.NetCore\obj\Release\netcoreapp3.1\tlsnn.NetCore.AssemblyInfo.cs
+E:\工作\2020\学习\MicrosoftSymbolDowner\src\MicrosoftSymbolDowner\tlsnn.NetCore\obj\Release\netcoreapp3.1\tlsnn.NetCore.csproj.CoreCompileInputs.cache
+E:\工作\2020\学习\MicrosoftSymbolDowner\src\MicrosoftSymbolDowner\tlsnn.NetCore\obj\Release\netcoreapp3.1\tlsnn.NetCore.dll
+E:\工作\2020\学习\MicrosoftSymbolDowner\src\MicrosoftSymbolDowner\tlsnn.NetCore\obj\Release\netcoreapp3.1\tlsnn.NetCore.pdb
+D:\积累\工作\一\2020\学习\MicrosoftSymbolDowner\src\MicrosoftSymbolDowner\tlsnn.NetCore\bin\Release\netcoreapp3.1\tlsnn.NetCore.deps.json
+D:\积累\工作\一\2020\学习\MicrosoftSymbolDowner\src\MicrosoftSymbolDowner\tlsnn.NetCore\bin\Release\netcoreapp3.1\tlsnn.NetCore.dll
+D:\积累\工作\一\2020\学习\MicrosoftSymbolDowner\src\MicrosoftSymbolDowner\tlsnn.NetCore\bin\Release\netcoreapp3.1\tlsnn.NetCore.pdb
+D:\积累\工作\一\2020\学习\MicrosoftSymbolDowner\src\MicrosoftSymbolDowner\tlsnn.NetCore\obj\Release\netcoreapp3.1\tlsnn.NetCore.csprojAssemblyReference.cache
+D:\积累\工作\一\2020\学习\MicrosoftSymbolDowner\src\MicrosoftSymbolDowner\tlsnn.NetCore\obj\Release\netcoreapp3.1\tlsnn.NetCore.AssemblyInfoInputs.cache
+D:\积累\工作\一\2020\学习\MicrosoftSymbolDowner\src\MicrosoftSymbolDowner\tlsnn.NetCore\obj\Release\netcoreapp3.1\tlsnn.NetCore.AssemblyInfo.cs
+D:\积累\工作\一\2020\学习\MicrosoftSymbolDowner\src\MicrosoftSymbolDowner\tlsnn.NetCore\obj\Release\netcoreapp3.1\tlsnn.NetCore.csproj.CoreCompileInputs.cache
+D:\积累\工作\一\2020\学习\MicrosoftSymbolDowner\src\MicrosoftSymbolDowner\tlsnn.NetCore\obj\Release\netcoreapp3.1\tlsnn.NetCore.dll
+D:\积累\工作\一\2020\学习\MicrosoftSymbolDowner\src\MicrosoftSymbolDowner\tlsnn.NetCore\obj\Release\netcoreapp3.1\tlsnn.NetCore.pdb

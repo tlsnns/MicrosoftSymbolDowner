@@ -1,34 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "E:\\工作\\2020\\学习\\MicrosoftSymbolDowner\\src\\MicrosoftSymbolDowner\\MicrosoftSymbolDowner\\MicrosoftSymbolDowner.csproj": {}
+    "C:\\Users\\admin\\Desktop\\MicrosoftSymbolDowner\\src\\MicrosoftSymbolDowner\\MicrosoftSymbolDowner\\MicrosoftSymbolDowner.csproj": {}
   },
   "projects": {
-    "E:\\工作\\2020\\学习\\MicrosoftSymbolDowner\\src\\MicrosoftSymbolDowner\\MicrosoftSymbolDowner\\MicrosoftSymbolDowner.csproj": {
+    "C:\\Users\\admin\\Desktop\\MicrosoftSymbolDowner\\src\\MicrosoftSymbolDowner\\MicrosoftSymbolDowner\\MicrosoftSymbolDowner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\工作\\2020\\学习\\MicrosoftSymbolDowner\\src\\MicrosoftSymbolDowner\\MicrosoftSymbolDowner\\MicrosoftSymbolDowner.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\MicrosoftSymbolDowner\\src\\MicrosoftSymbolDowner\\MicrosoftSymbolDowner\\MicrosoftSymbolDowner.csproj",
         "projectName": "MicrosoftSymbolDowner",
-        "projectPath": "E:\\工作\\2020\\学习\\MicrosoftSymbolDowner\\src\\MicrosoftSymbolDowner\\MicrosoftSymbolDowner\\MicrosoftSymbolDowner.csproj",
+        "projectPath": "C:\\Users\\admin\\Desktop\\MicrosoftSymbolDowner\\src\\MicrosoftSymbolDowner\\MicrosoftSymbolDowner\\MicrosoftSymbolDowner.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "E:\\工作\\2020\\学习\\MicrosoftSymbolDowner\\src\\MicrosoftSymbolDowner\\MicrosoftSymbolDowner\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\MicrosoftSymbolDowner\\src\\MicrosoftSymbolDowner\\MicrosoftSymbolDowner\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\工作\\2020\\学习\\MicrosoftSymbolDowner\\src\\MicrosoftSymbolDowner\\tlsnn.NetCore\\tlsnn.NetCore.csproj": {
-                "projectPath": "E:\\工作\\2020\\学习\\MicrosoftSymbolDowner\\src\\MicrosoftSymbolDowner\\tlsnn.NetCore\\tlsnn.NetCore.csproj"
+              "C:\\Users\\admin\\Desktop\\MicrosoftSymbolDowner\\src\\MicrosoftSymbolDowner\\tlsnn.NetCore\\tlsnn.NetCore.csproj": {
+                "projectPath": "C:\\Users\\admin\\Desktop\\MicrosoftSymbolDowner\\src\\MicrosoftSymbolDowner\\tlsnn.NetCore\\tlsnn.NetCore.csproj"
               }
             }
           }
@@ -40,7 +41,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
             "HttpToSocks5Proxy": {
               "target": "Package",
@@ -62,32 +64,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\工作\\2020\\学习\\MicrosoftSymbolDowner\\src\\MicrosoftSymbolDowner\\tlsnn.NetCore\\tlsnn.NetCore.csproj": {
+    "C:\\Users\\admin\\Desktop\\MicrosoftSymbolDowner\\src\\MicrosoftSymbolDowner\\tlsnn.NetCore\\tlsnn.NetCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\工作\\2020\\学习\\MicrosoftSymbolDowner\\src\\MicrosoftSymbolDowner\\tlsnn.NetCore\\tlsnn.NetCore.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\MicrosoftSymbolDowner\\src\\MicrosoftSymbolDowner\\tlsnn.NetCore\\tlsnn.NetCore.csproj",
         "projectName": "tlsnn.NetCore",
-        "projectPath": "E:\\工作\\2020\\学习\\MicrosoftSymbolDowner\\src\\MicrosoftSymbolDowner\\tlsnn.NetCore\\tlsnn.NetCore.csproj",
+        "projectPath": "C:\\Users\\admin\\Desktop\\MicrosoftSymbolDowner\\src\\MicrosoftSymbolDowner\\tlsnn.NetCore\\tlsnn.NetCore.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "E:\\工作\\2020\\学习\\MicrosoftSymbolDowner\\src\\MicrosoftSymbolDowner\\tlsnn.NetCore\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\MicrosoftSymbolDowner\\src\\MicrosoftSymbolDowner\\tlsnn.NetCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -98,7 +101,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
@@ -114,7 +118,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

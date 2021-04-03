@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wjCndz6VINuOviWokQQirbGoP9CUC0Kjcw6sKlGeMvLDEtXNSXGlxMJuzHDdZvt6W0F0sOeZVG2mVCloDYvEKg==",
+  "dgSpecHash": "NFFtxI41K9Df3+P4+qKzBNeew/JGF6pA/qUDoCqRBwtyhhpzQtcak7hmWdzFEyO/3runD781/yO5CKM9k1acmQ==",
   "success": true,
-  "projectFilePath": "E:\\工作\\2020\\学习\\MicrosoftSymbolDowner\\src\\MicrosoftSymbolDowner\\MicrosoftSymbolDowner\\MicrosoftSymbolDowner.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\MicrosoftSymbolDowner\\src\\MicrosoftSymbolDowner\\MicrosoftSymbolDowner\\MicrosoftSymbolDowner.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\httptosocks5proxy\\1.4.0\\httptosocks5proxy.1.4.0.nupkg.sha512"
   ],

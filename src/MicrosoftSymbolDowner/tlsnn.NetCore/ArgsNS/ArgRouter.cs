@@ -27,9 +27,9 @@ namespace tlsnn.NetCore.ArgsNS.ArgsNS
             {
                 throw new Exception("未知的选项或命令");
             }
-            catch (Exception ex)
+            catch
             {
-                throw ex;
+                throw;
             }
         }
         public void InsertAction(string strKey, Action<string[], InvokeCommander, StartInfo> action)

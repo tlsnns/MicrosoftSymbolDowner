@@ -1,0 +1,17 @@
+E:\工作\2020\学习\MicrosoftSymbolDowner\src\MicrosoftSymbolDowner\MicrosoftSymbolDowner\bin\Release\netcoreapp3.1\MicrosoftSymbolDowner.exe
+E:\工作\2020\学习\MicrosoftSymbolDowner\src\MicrosoftSymbolDowner\MicrosoftSymbolDowner\bin\Release\netcoreapp3.1\MicrosoftSymbolDowner.deps.json
+E:\工作\2020\学习\MicrosoftSymbolDowner\src\MicrosoftSymbolDowner\MicrosoftSymbolDowner\bin\Release\netcoreapp3.1\MicrosoftSymbolDowner.runtimeconfig.json
+E:\工作\2020\学习\MicrosoftSymbolDowner\src\MicrosoftSymbolDowner\MicrosoftSymbolDowner\bin\Release\netcoreapp3.1\MicrosoftSymbolDowner.runtimeconfig.dev.json
+E:\工作\2020\学习\MicrosoftSymbolDowner\src\MicrosoftSymbolDowner\MicrosoftSymbolDowner\bin\Release\netcoreapp3.1\MicrosoftSymbolDowner.dll
+E:\工作\2020\学习\MicrosoftSymbolDowner\src\MicrosoftSymbolDowner\MicrosoftSymbolDowner\bin\Release\netcoreapp3.1\MicrosoftSymbolDowner.pdb
+E:\工作\2020\学习\MicrosoftSymbolDowner\src\MicrosoftSymbolDowner\MicrosoftSymbolDowner\bin\Release\netcoreapp3.1\MihaZupan.HttpToSocks5Proxy.dll
+E:\工作\2020\学习\MicrosoftSymbolDowner\src\MicrosoftSymbolDowner\MicrosoftSymbolDowner\bin\Release\netcoreapp3.1\tlsnn.NetCore.dll
+E:\工作\2020\学习\MicrosoftSymbolDowner\src\MicrosoftSymbolDowner\MicrosoftSymbolDowner\bin\Release\netcoreapp3.1\tlsnn.NetCore.pdb
+E:\工作\2020\学习\MicrosoftSymbolDowner\src\MicrosoftSymbolDowner\MicrosoftSymbolDowner\obj\Release\netcoreapp3.1\MicrosoftSymbolDowner.csprojAssemblyReference.cache
+E:\工作\2020\学习\MicrosoftSymbolDowner\src\MicrosoftSymbolDowner\MicrosoftSymbolDowner\obj\Release\netcoreapp3.1\MicrosoftSymbolDowner.AssemblyInfoInputs.cache
+E:\工作\2020\学习\MicrosoftSymbolDowner\src\MicrosoftSymbolDowner\MicrosoftSymbolDowner\obj\Release\netcoreapp3.1\MicrosoftSymbolDowner.AssemblyInfo.cs
+E:\工作\2020\学习\MicrosoftSymbolDowner\src\MicrosoftSymbolDowner\MicrosoftSymbolDowner\obj\Release\netcoreapp3.1\MicrosoftSymbolDowner.csproj.CoreCompileInputs.cache
+E:\工作\2020\学习\MicrosoftSymbolDowner\src\MicrosoftSymbolDowner\MicrosoftSymbolDowner\obj\Release\netcoreapp3.1\MicrosoftSymbolDowner.csproj.CopyComplete
+E:\工作\2020\学习\MicrosoftSymbolDowner\src\MicrosoftSymbolDowner\MicrosoftSymbolDowner\obj\Release\netcoreapp3.1\MicrosoftSymbolDowner.dll
+E:\工作\2020\学习\MicrosoftSymbolDowner\src\MicrosoftSymbolDowner\MicrosoftSymbolDowner\obj\Release\netcoreapp3.1\MicrosoftSymbolDowner.pdb
+E:\工作\2020\学习\MicrosoftSymbolDowner\src\MicrosoftSymbolDowner\MicrosoftSymbolDowner\obj\Release\netcoreapp3.1\MicrosoftSymbolDowner.genruntimeconfig.cache

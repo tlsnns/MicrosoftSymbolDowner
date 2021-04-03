@@ -8,13 +8,14 @@ namespace MicrosoftSymbolDowner
     {
         static void Main(string[] args)
         {
-            try
-            {
+            
                 InvokeCommander invokeCommander = new InvokeCommander();
                 StartInfo1 startInfo1 = new StartInfo1();
                 var ar = new ArgRouter(invokeCommander, startInfo1, ArgActionsFactory.CreateActions());
                 ArgsParser.Parse(args, ar);
                 invokeCommander.ExecCommand();
+            try
+            {
             }
             catch (Exception ex)
             {

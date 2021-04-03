@@ -9,6 +9,7 @@ using System.Reflection.PortableExecutable;
 using System.Threading.Tasks;
 using tlsnn.NetCore.ConsoleUnit;
 using System.Threading;
+using System.Collections.Concurrent;
 
 namespace MicrosoftSymbolDowner.CommandNS
 {
@@ -50,30 +51,17 @@ namespace MicrosoftSymbolDowner.CommandNS
             {
                 throw new Exception("没有指定输入pe或清单文件");
             }
-            ProgressBarSingleton progressBarSingleton = ProgressBarSingleton.GetInstance(ManifestTask.Tasks.Count);
-            PDBDownLoader pdbDownLoader = new PDBDownLoader(s1.SymbolServer, s1.Socks5Server, s1.Socks5Port, s1.OutputPDBFolder);
+
+            PDBDownLoader pdbDownLoader = new PDBDownLoader(s1.SymbolServer, s1.Socks5Server, s1.Socks5Port);
+
+            ConcurrentQueue<PDBEntity> needRetryTask = new ConcurrentQueue<PDBEntity>();
             Parallel.ForEach(ManifestTask.Tasks, item =>
             {
-                bool isSucess = false;
-                string strErrorMessage;
-                try
-                {
-                    isSucess = pdbDownLoader.TryDownLoadPDB(item, out strErrorMessage);
-                }
-                catch (Exception ex)
-                {
-                    strErrorMessage = ex.Message;
-                }
-                if (isSucess)
-                {
-                    progressBarSingleton.Dispaly();
-                }
-                else
-                {
-                    progressBarSingleton.Dispaly(item.PDBName + "\t" + strErrorMessage);
-                }
+                needRetryTask.Enqueue(new PDBEntity(s1.OutputPDBFolder, item));
             });
-            progressBarSingleton.Over();
+
+
+            pdbDownLoader.DownLoad(needRetryTask);
         }
     }
 }

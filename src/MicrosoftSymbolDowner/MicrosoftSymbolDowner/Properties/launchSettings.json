@@ -2,7 +2,7 @@
   "profiles": {
     "MicrosoftSymbolDowner": {
       "commandName": "Project",
-      "commandLineArgs": "--h"
+      "commandLineArgs": "--dp -idr C:\\Windows\\System32 -od D:\\SymbolsTest -sps 127.0.0.1 -spp 1081"
     }
   }
 }

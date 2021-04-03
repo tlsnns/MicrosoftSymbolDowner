@@ -12,7 +12,7 @@ namespace MicrosoftSymbolDowner
 {
     static class ManifestTask
     {
-        public static List<ManifestEntity> Tasks { get; } = new List<ManifestEntity>();
+        public static List<RSDSEntity> Tasks { get; } = new List<RSDSEntity>();
 
         public static bool TryInsertTask(string strFilePath, out string errorMessage)
         {
@@ -22,9 +22,9 @@ namespace MicrosoftSymbolDowner
                 return false;
             }
 
-            FileStream fileStream = new FileStream(strFilePath, FileMode.Open, FileAccess.Read);
+            using FileStream fileStream = new FileStream(strFilePath, FileMode.Open, FileAccess.Read);
 
-            PEReader peReader = new PEReader(fileStream);
+            using PEReader peReader = new PEReader(fileStream);
             var debugDirectory = peReader.ReadDebugDirectory();
 
             CodeViewDebugDirectoryData? codeViewDebugDirectoryData = null;
@@ -52,7 +52,7 @@ namespace MicrosoftSymbolDowner
             }
             string strGuid = codeViewDebugDirectoryData.Value.Guid.ToString("N");
             string strAge = codeViewDebugDirectoryData.Value.Age.ToString();
-            Tasks.Add(new ManifestEntity { PDBName = strPDBName, PDBGuid = strGuid, Age = strAge });
+            Tasks.Add(new RSDSEntity(strPDBName, strGuid, strAge));
             errorMessage = null;
             return true;
         }
@@ -71,8 +71,8 @@ namespace MicrosoftSymbolDowner
             var tmp = File.ReadAllLines(strFilePath);
             for (int i = 0; i < tmp.Length; i++)
             {
-                var subTmp = tmp[0].Split('\t');
-                Tasks.Add(new ManifestEntity { PDBName = subTmp[0], PDBGuid = subTmp[1], Age = subTmp[2] });
+                var subTmp = tmp[i].Split('\t');
+                Tasks.Add(new RSDSEntity(subTmp[0], subTmp[1], subTmp[2]));
             }
         }
     }
